@@ -9,7 +9,7 @@ class CustomNavBar extends HTMLElement {
             <li class="dropdown">
                 <a href="games.html" class="dropbtn">Games</a>
                 <div class="dropdown-content">
-                    <a href="dart_the_dog.html">Dart The Dog</a>
+                    <a href="https://store.steampowered.com/app/2935430/Dart_The_Dog/">Dart The Dog</a>
                 </div>
             </li>
             <li class="dropdown">
